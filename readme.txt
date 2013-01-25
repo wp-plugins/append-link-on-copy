@@ -1,4 +1,4 @@
-=== Page Excerpt Widget ===
+=== Append Link on Copy ===
 Contributors: JonathanMH
 Donate link: http://jonathanmh.com/wordpress-plugin-append-link-on-copy/
 Tags: append link, copyright, js, javscript, add text to copy and paste, copy 'n paste, copy & paste
