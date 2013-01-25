@@ -4,7 +4,7 @@ Donate link: http://jonathanmh.com/wordpress-plugin-append-link-on-copy/
 Tags: append link, copyright, js, javscript, add text to copy and paste, copy 'n paste, copy & paste
 Requires at least: 2.8
 Tested up to: 3.5
-Stable tag: 0.1.1
+Stable tag: 0.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
