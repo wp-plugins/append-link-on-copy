@@ -1,6 +1,6 @@
 <?php
 	/*
-	Plugin Name: Copy Link on Post
+	Plugin Name: Append Link on Copy
 	Plugin URI: http://jonathanmh.com/wordpress-plugin-append-link-on-copy/
 	Description: This plugin allows the user to automatically append a link to the current page, when users copy & paste a title or any line
 	Version: 0.1
